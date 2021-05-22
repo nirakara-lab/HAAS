@@ -1,5 +1,4 @@
-# HAAS
-Hedonic and Arousal Affect Scale
+# Hedonic and Arousal Affect Scale (HAAS)
 
 Copyright (c) 2019 Nirakara Lab
 
